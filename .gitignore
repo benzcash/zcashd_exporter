@@ -1,1 +1,4 @@
 zcashd_exporter
+.env
+zcash-data-dir/
+zcash-params-dir/
